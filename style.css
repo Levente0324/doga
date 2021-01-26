@@ -1,0 +1,78 @@
+body {
+    background-color: grey;
+}
+
+table {
+    padding: 30px;
+    background-color: skyblue;
+    margin: auto;
+    width: 960px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    box-sizing: border-box;
+    color:  blue;
+    margin-right: 40%;
+    border: none;
+    border-top: 2px solid blue;
+    border-bottom: 2px dotted blue;
+}
+
+p {
+    text-align: justify;
+}
+
+img {
+    border: 8px solid blue;
+    width: 200px;
+}
+
+.img1 {
+    float: right;
+    margin-left: 15px;
+    margin-bottom: 30px;
+}
+
+.img2 {
+    float: right;
+    clear: both;
+    margin-left: 15px;
+    margin-bottom: 10px;
+}
+
+.neu1 {
+    float: left;
+    margin-right: 15px;
+}
+
+hr {
+    color: blue;
+    
+}
+
+.lastimg {
+    float: left;
+    margin-right: 15px;
+}
+
+.neu2 {
+    float: right;
+    margin-left: 15px;
+    margin-bottom: 10px;
+}
+
+.kerk {
+    text-align: left;
+}
+
+ul {
+    list-style-image: url(kukac.png);
+}
+
+hr.hr1 {
+    border: 2px solid blue;
+}
